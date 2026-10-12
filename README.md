@@ -12,8 +12,8 @@
 
 <br/>
 
-![Focus](https://img.shields.io/badge/FOCUS-MOBILE_APPS-00D2FF?style=for-the-badge&logo=flutter&logoColor=black)
-![Location](https://img.shields.io/badge/LOCATION-LAHORE,_PAKISTAN-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-MOBILE_APPS-00F5FF?style=for-the-badge&logo=flutter&logoColor=black)
+![Location](https://img.shields.io/badge/LOCATION-LAHORE,_PAKISTAN-00F5FF?style=for-the-badge&logo=googlemaps&logoColor=black)
 
 </div>
 
