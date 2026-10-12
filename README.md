@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Hina Bibi 👋
 
-<!--
-**hina73899-ai/hina73899-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android Developer | Flutter & Kotlin Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub universe! 🚀  
+Here, you'll find a collection of projects fueled by curiosity and a relentless drive to build scalable mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+* **Languages:** Dart, Kotlin, Java
+* **Frameworks:** Flutter, Android, Ios
+* **Tools & Git:** Git, GitHub, Android Studio, VS Code
+
+---
+
+### 📊 GitHub Stats
+![Hina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hina7389-ai&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+* 💼 LinkedIn: https://www.linkedin.com/in/hina-bibi-821944395/?isSelfProfile=true
+* ✉️ Email: hina7389@gmail.com
