@@ -29,3 +29,11 @@ const hina = {
   stack: ["Dart", "Kotlin", "Java", "Python", "Flutter", "Firebase"],
   funFact: "I turn complex ideas into smooth mobile & web applications."
 };
+
+const myCapabilities = {
+  mobileApps: "Building high-performance cross-platform apps for Android & iOS using Flutter, Kotlin, and Native Android SDK.",
+  webDevelopment: "Creating responsive and dynamic web interfaces using modern web technologies and frameworks.",
+  programming: "Strong command over Java and Python for core programming, algorithms, scripting, and backend logic.",
+  gameDevelopment: "Designing and developing interactive 2D/3D games and engaging gameplay experiences.",
+  databases: "Integrating secure databases like Firebase, SQLite, and handling REST APIs efficiently."
+};
