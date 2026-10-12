@@ -1,24 +1,34 @@
-# Hi there, I'm Hina Bibi 👋
+<div align="center">
 
-### Android Developer | Flutter & Kotlin Enthusiast
+<!-- Animated Header Title -->
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Hina+Bibi+👋;Android+%26+Flutter+Developer;Building+Scalable+Mobile+Apps+🚀" alt="Typing SVG" />
+</a>
 
-Welcome to my GitHub universe! 🚀  
-Here, you'll find a collection of projects fueled by curiosity and a relentless drive to build scalable mobile applications.
+<p align="center">
+  <b>Passionate Mobile Application Developer creating smooth, high-performance Android & Flutter applications.</b>
+</p>
+
+<!-- Quick Info Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-FLUTTER_%26_ANDROID-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-LAHORE,_PAKISTAN-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-8B5CF6?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-* **Languages:** Dart, Kotlin, Java
-* **Frameworks:** Flutter, Android, Ios
-* **Tools & Git:** Git, GitHub, Android Studio, VS Code
+### 💻 About Me
 
----
-
-### 📊 GitHub Stats
-![Hina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hina7389-ai&show_icons=true&theme=radical)
-
----
-
-### 📫 Connect with Me
-* 💼 LinkedIn: https://www.linkedin.com/in/hina-bibi-821944395/?isSelfProfile=true
-* ✉️ Email: hina7389@gmail.com
+```javascript
+const hina = {
+  name: "Hina Bibi",
+  role: "Mobile App Developer",
+  focus: ["Android Native", "Flutter Cross-Platform"],
+  location: "Lahore, Pakistan",
+  stack: ["Dart", "Kotlin", "Java", "Flutter", "Firebase", "REST APIs"],
+  learning: ["Advanced Clean Architecture", "CI/CD for Mobile"],
+  funFact: "I turn complex designs into pixel-perfect mobile apps."
+};
