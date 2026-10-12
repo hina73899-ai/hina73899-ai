@@ -3,8 +3,8 @@
 <!-- First Cyan Animated Text -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Hina+Bibi+👋;Welcome+to+my+GitHub+Universe!+✨)
 
-<!-- Second Cyan Animated Text (Space reduced) -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Flutter+%26+Kotlin+Expert;Building+Seamless+Mobile+Experiences)
+<!-- Second Cyan Animated Text -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Flutter+%26+Kotlin+Expert;Building+Seamless+Mobile+Experiences+🚀)
 
 <br/>
 
@@ -23,9 +23,9 @@
 ```javascript
 const hina = {
   name: "Hina Bibi",
-  role: "Mobile Application Developer",
-  focus: ["Flutter", "Kotlin", "Android Native"],
+  role: "Mobile Application & Web Developer",
+  focus: ["Flutter", "Kotlin", "Android Native", "iOS", "Python"],
   location: "Lahore, Pakistan",
-  stack: ["Dart", "Kotlin", "Java", "Flutter", "Firebase"],
-  funFact: "I turn complex ideas into smooth mobile apps."
+  stack: ["Dart", "Kotlin", "Java", "Python", "Flutter", "Firebase"],
+  funFact: "I turn complex ideas into smooth mobile & web applications."
 };
