@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Typing Animation Banner -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Hina+Bibi+👋;Android+%26+Flutter+Developer;Building+Scalable+Mobile+Apps+🚀" alt="Typing SVG" />
-</a>
+<!-- Top Golden Typing Animation 1 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=EAB308&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Hina+Bibi+👋;Welcome+to+my+GitHub+Universe!+✨" alt="Typing SVG" />
 
 <p align="center">
-  <b>Passionate Mobile Application Developer creating smooth, high-performance Android & Flutter applications.</b>
+  <b>Helping Mobile Startups build scalable and high-performance apps.</b>
 </p>
 
-<!-- Top Badges -->
+<!-- Second Golden Typing Animation 2 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EAB308&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Flutter+%26+Kotlin+Expert;Building+Seamless+Mobile+Experiences+🚀" alt="Typing SVG" />
+
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-FLUTTER_%26_ANDROID-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-MOBILE_APPS-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCATION-LAHORE,_PAKISTAN-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -24,10 +24,9 @@
 ```javascript
 const hina = {
   name: "Hina Bibi",
-  role: "Mobile App Developer",
-  focus: ["Android Native", "Flutter Cross-Platform"],
+  role: "Mobile Application Developer",
+  focus: ["Flutter", "Kotlin", "Android Native"],
   location: "Lahore, Pakistan",
-  stack: ["Dart", "Kotlin", "Java", "Flutter", "Firebase", "REST APIs"],
-  learning: ["Advanced Clean Architecture", "CI/CD for Mobile"],
-  funFact: "I turn complex designs into pixel-perfect mobile apps."
+  stack: ["Dart", "Kotlin", "Java", "Flutter", "Firebase"],
+  funFact: "I turn complex ideas into smooth mobile apps."
 };
